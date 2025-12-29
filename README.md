@@ -12,7 +12,7 @@ El análisis cubre el flujo completo de un proyecto de Data Science orientado a 
 
 - Análisis exploratorio de datos (EDA)
 - Feature engineering temporal (día de la semana, franja horaria, etc.)
-- Modelos de regresión (OLS y Ridge)
+- Modelos de regresión OLS (Lineal) y Ridge
 - Evaluación e interpretación de resultados
 - Análisis de limitaciones del modelo
 
